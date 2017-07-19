@@ -1,5 +1,5 @@
 # credit-card-validator
-
+ 
 ## The Luhn Formula:
 1. Drop the last digit from the number. The last digit is what we want to check against
 2. Reverse the numbers
